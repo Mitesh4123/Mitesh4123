@@ -1,14 +1,6 @@
 # Hi 👋, I'm Mitesh Thummar
 
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pZ3A1bndid3N6ZndpZzVkNDU0Z3V4NDN6bXN0YzA0YmRibW9idSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HteV6g0O0CHa8/giphy.gif" width="380" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
 ### About Me
 
 - 🎓 **Final-year B.Tech Information Technology student** at St. Vincent Pallotti College of Engineering and Technology, Nagpur (CGPA: 8.67/10)
