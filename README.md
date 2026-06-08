@@ -1,6 +1,5 @@
 # Hi 👋, I'm Mitesh Thummar
 
-### Software Engineer Intern | Backend & Mobile App Developer
 
 <table align="right">
   <tr>
