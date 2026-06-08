@@ -12,11 +12,11 @@
 
 ### About Me
 
-- [cite_start]🎓 **Final-year B.Tech Information Technology student** at St. Vincent Pallotti College of Engineering and Technology, Nagpur (CGPA: 8.67/10) [cite: 4]
-- [cite_start]💻 **Software Engineer Intern** at Trust Fintech Ltd [cite: 12] [cite_start]with hands-on experience building mobile layout architectures and integrating REST APIs [cite: 16, 17]
-- [cite_start]⚙️ **Backend & Automation Developer** experienced in building Core Banking System (CBS) automation using the WhatsApp Cloud API and ASP.NET Core [cite: 26, 28]
-- [cite_start]📄 **Published Researcher** on secure, accessibility-focused UPI mobile payment transaction systems [cite: 32, 44]
-- [cite_start]🚀 Passionate about bridging complex backend software engineering with **inclusive, user-centric accessibility features** [cite: 15, 33]
+- 🎓 **Final-year B.Tech Information Technology student** at St. Vincent Pallotti College of Engineering and Technology, Nagpur (CGPA: 8.67/10)
+- 💻 **Software Engineer Intern** at Trust Fintech Ltd [cite: 12] [cite_start]with hands-on experience building mobile layout architectures and integrating REST APIs 
+- ⚙️ **Backend & Automation Developer** experienced in building Core Banking System (CBS) automation using the WhatsApp Cloud API and ASP.NET Core 
+- 📄 **Published Researcher** on secure, accessibility-focused UPI mobile payment transaction systems 
+- 🚀 Passionate about bridging complex backend software engineering with **inclusive, user-centric accessibility features** 
 
 ---
 
