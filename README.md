@@ -74,7 +74,6 @@
 
 ### Connect with Me
 
-- 💬 Ask me about **Backend Architecture, Mobile Accessibility, and API Integrations**
 - 📬 Reach me at **miteshthummar2004@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/mitesh-thummar](https://www.linkedin.com/in/mitesh-thummar-840827262/) 
 - ⚡ **Fun fact:** I love bridging the gap between robust backend security and accessible user design.
