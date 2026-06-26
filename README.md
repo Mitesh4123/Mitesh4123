@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 🎓 **Final-year B.Tech Information Technology student** at St. Vincent Pallotti College of Engineering and Technology, Nagpur (CGPA: 8.67/10)
+- 🎓 **B.Tech Information Technology student** at St. Vincent Pallotti College of Engineering and Technology, Nagpur (CGPA: 8.78/10)
 - 💻 **Software Engineer Intern** at Trust Fintech Ltd with hands-on experience building mobile layout architectures and integrating REST APIs
 - ⚙️ **Backend & Automation Developer** experienced in building Core Banking System (CBS) automation using the WhatsApp Cloud API and ASP.NET Core
 - 🔐 **Full-Stack Fintech Builder** — designed and shipped PayVault, a digital wallet API with atomic transfers, OTP verification, and a React frontend, deployed end-to-end
